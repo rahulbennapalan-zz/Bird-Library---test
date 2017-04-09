@@ -11,9 +11,9 @@ Setup
 ========
 Assuming you already have NodeJS installed:
 
-  git clone https://github.com/rahulbennapalan/Bird-Library---test.git
-  cd Bird-Library---test
-  npm i
+git clone https://github.com/rahulbennapalan/Bird-Library---test.git
+cd Bird-Library---test
+npm i
 
 Start Bird registry
 ========
