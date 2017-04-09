@@ -9,7 +9,7 @@ A basic HTTP service for building a bird registry.
 
 Setup
 ========
-Assuming you already have NodeJS installed:
+Assuming you already have NodeJS installed.
 
 git clone https://github.com/rahulbennapalan/Bird-Library---test.git    
 cd Bird-Library---test   
