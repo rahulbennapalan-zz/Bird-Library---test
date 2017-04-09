@@ -1,0 +1,23 @@
+{
+  "name": "bird-registry",
+  "version": "1.0.0",
+  "description": "A basic HTTP service for building a bird registry",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.12.3",
+    "moment": "^2.18.1",
+    "mongoose": "^4.9.3"
+  },
+  "devDependencies": {
+     "chai": "^3.5.0",
+     "chai-http": "^2.0.1",
+     "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha --timeout 1000"
+  },
+  "author": "Rahul Bennapalan<rahul.bennapalan@gmail.com>",
+  "license": "MIT"
+}
